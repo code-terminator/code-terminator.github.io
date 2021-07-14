@@ -71,6 +71,13 @@ h4 {
   padding: 3px;
 }
 
+/*  ================ Student styling  ================ */
+.student {
+  margin-bottom: 10px }
+.student p {
+  margin-bottom: 2px }
+
+
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
