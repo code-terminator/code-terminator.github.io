@@ -77,6 +77,12 @@ h4 {
 .student p {
   margin-bottom: 2px }
 
+/*  ================ Teaching styling  ================ */
+.teaching {
+  margin-bottom: 10px }
+.teaching p {
+  margin-bottom: 2px }
+
 
 /* Larger than phone */
 @media (min-width: 550px) {
